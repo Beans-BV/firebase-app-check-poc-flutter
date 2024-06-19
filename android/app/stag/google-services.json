@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674164194243",
+    "project_id": "appcheckpoc-staging",
+    "storage_bucket": "appcheckpoc-staging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674164194243:android:ecaace3abc0d7b7a44db76",
+        "android_client_info": {
+          "package_name": "com.tot.poc_app.stage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTI0eddQm-UhuiP0Mp0lDWgh2-asEmEH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
