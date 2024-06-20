@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079974422417",
+    "project_id": "appcheckpoc-dev",
+    "storage_bucket": "appcheckpoc-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079974422417:android:d68789a40a26d511165c30",
+        "android_client_info": {
+          "package_name": "com.tot.poc_app.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCr32mPovyP3Wfr9DbB_WUfzPfGceKQPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
